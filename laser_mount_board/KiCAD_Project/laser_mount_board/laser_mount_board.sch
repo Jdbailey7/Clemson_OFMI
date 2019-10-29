@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Laser Mount Board"
+Title "OFSI Laser Mount Board"
 Date "2019-10-24"
-Rev "1.0"
+Rev "4.0"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 427-0299"
 Comment2 "Siloam Springs, AR 72761"
@@ -2167,8 +2167,8 @@ $Comp
 L Mechanical:MountingHole H1
 U 1 1 5DC3EDF0
 P 6425 6900
-F 0 "H1" H 6525 6946 50  0000 L CNN
-F 1 "M3" H 6525 6855 50  0000 L CNN
+F 0 "H1" H 6525 6900 50  0000 L CNN
+F 1 "M3" H 6525 6855 50  0001 L CNN
 F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad" H 6425 6900 50  0001 C CNN
 F 3 "~" H 6425 6900 50  0001 C CNN
 F 4 "0-0000000" H 6425 6900 50  0001 C CNN "Internal Part Number"
@@ -2180,8 +2180,8 @@ $Comp
 L Mechanical:MountingHole H2
 U 1 1 5DC3F4CE
 P 6425 7100
-F 0 "H2" H 6525 7146 50  0000 L CNN
-F 1 "M3" H 6525 7055 50  0000 L CNN
+F 0 "H2" H 6525 7100 50  0000 L CNN
+F 1 "M3" H 6525 7055 50  0001 L CNN
 F 2 "Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad" H 6425 7100 50  0001 C CNN
 F 3 "~" H 6425 7100 50  0001 C CNN
 F 4 "0-0000000" H 6425 7100 50  0001 C CNN "Internal Part Number"
