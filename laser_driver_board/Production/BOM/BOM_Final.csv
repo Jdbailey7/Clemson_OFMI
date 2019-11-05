@@ -1,0 +1,6 @@
+Reference,Value,Footprint,Internal Part Number,Populated,Distributor,Distributor PN
+J1,Input,lib_fp:SAMTEC-TSW-111-08-X-S-RA,1-0000422,1,Digikey,SAM1051-11-ND
+J2,Output,lib_fp:SAMTEC-TSW-111-08-X-S-RA,1-0000422,1,Digikey,SAM1051-11-ND
+OB1,Test Point (on LD1255R),lib_fp:OffBoard,1-0000425,1,Digikey,36-5006-ND
+OB2,Test Point (on LD1255R),lib_fp:OffBoard,1-0000425,1,Digikey,36-5006-ND
+U1,LD1255R,lib_fp:LD1255R,1-0000436,1,ThorLabs,LD1255R

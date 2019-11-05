@@ -1,0 +1,10 @@
+Reference, Value, Footprint, Datasheet, Internal Part Number, Populated
+"J1","Input","lib_fp:SAMTEC-TSW-111-08-X-S-RA","~","1-0000422","1"
+"J2","Output","lib_fp:SAMTEC-TSW-111-08-X-S-RA","~","1-0000422","1"
+"H1","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
+"H2","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
+"H3","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
+"H4","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
+"OB1","Test Point (on LD1255R)","lib_fp:OffBoard","","1-0000425","1"
+"OB2","Test Point (on LD1255R)","lib_fp:OffBoard","","1-0000425","1"
+"U1","LD1255R","lib_fp:LD1255R","","1-0000436","1"
