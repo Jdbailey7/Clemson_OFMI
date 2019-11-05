@@ -1,11 +1,10 @@
 EESchema Schematic File Version 4
-LIBS:laser_mount_board-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "OFSI Laser Mount Board"
+Title "OFMI Laser Mount Board"
 Date "2019-10-24"
 Rev "4.0"
 Comp "Leeman Geophysical LLC"
