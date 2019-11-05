@@ -571,7 +571,7 @@
   (gr_text GND (at 162.56 128.27) (layer B.SilkS) (tstamp 5DB84D5B)
     (effects (font (size 0.762 0.762) (thickness 0.14986)) (justify mirror))
   )
-  (gr_text "OFSI Rev. 04\nPower Supply Board\nOctober 2019" (at 171.45 129.54) (layer F.SilkS)
+  (gr_text "OFMI Rev. 04\nPower Supply Board\nOctober 2019" (at 171.45 129.54) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.14986)))
   )
   (gr_text "LG 3-0000016" (at 182.88 130.81) (layer B.SilkS)
