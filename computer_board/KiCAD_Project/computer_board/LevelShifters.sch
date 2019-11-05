@@ -1,11 +1,10 @@
 EESchema Schematic File Version 4
-LIBS:computer_board-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title "OFSI Computer Board"
+Title "OFMI Computer Board"
 Date "2019-10-29"
 Rev "4.0"
 Comp "Leeman Geophysical LLC"
