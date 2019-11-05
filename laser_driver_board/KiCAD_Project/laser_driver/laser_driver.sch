@@ -1,11 +1,10 @@
 EESchema Schematic File Version 4
-LIBS:laser_driver-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "OFSI Laser Driver Board"
+Title "OFMI Laser Driver Board"
 Date "2019-10-28"
 Rev "4.0"
 Comp "Leeman Geophysical LLC"
