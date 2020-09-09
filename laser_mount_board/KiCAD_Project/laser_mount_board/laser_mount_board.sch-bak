@@ -1,12 +1,12 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Laser Mount Board"
-Date "2020-09-09"
-Rev "4.1"
+Date "2019-10-24"
+Rev "4.0"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 427-0299"
 Comment2 "Siloam Springs, AR 72761"
@@ -2188,6 +2188,4 @@ F 5 "0" H 6425 7100 50  0001 C CNN "Populated"
 	1    6425 7100
 	1    0    0    -1  
 $EndComp
-Text Notes 6975 6500 0    50   ~ 0
-Rev 4.0 and 4.1 are identical - just a silk screen bump
 $EndSCHEMATC
