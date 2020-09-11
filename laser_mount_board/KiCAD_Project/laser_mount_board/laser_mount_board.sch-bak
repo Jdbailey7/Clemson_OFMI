@@ -1,12 +1,12 @@
 EESchema Schematic File Version 4
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Laser Mount Board"
-Date "2019-10-24"
-Rev "4.0"
+Date "2020-09-11"
+Rev "4.1"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 427-0299"
 Comment2 "Siloam Springs, AR 72761"
@@ -2187,5 +2187,81 @@ F 4 "0-0000000" H 6425 7100 50  0001 C CNN "Internal Part Number"
 F 5 "0" H 6425 7100 50  0001 C CNN "Populated"
 	1    6425 7100
 	1    0    0    -1  
+$EndComp
+Text Notes 6975 6500 0    50   ~ 0
+Rev 4.0 and 4.1 are identical - just a silk screen bump
+Text GLabel -1375 1150 0    50   UnSpc ~ 0
+LDA
+Text GLabel -1375 1325 0    50   UnSpc ~ 0
+LDC
+Text GLabel -1375 1500 0    50   UnSpc ~ 0
+PDC
+Text GLabel -1375 1675 0    50   UnSpc ~ 0
+PDA
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5F5B792D
+P -1375 1150
+F 0 "#FLG0101" H -1375 1225 50  0001 C CNN
+F 1 "PWR_FLAG" V -1375 1278 50  0000 L CNN
+F 2 "" H -1375 1150 50  0001 C CNN
+F 3 "~" H -1375 1150 50  0001 C CNN
+	1    -1375 1150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 5F5B80F5
+P -1375 1325
+F 0 "#FLG0102" H -1375 1400 50  0001 C CNN
+F 1 "PWR_FLAG" V -1375 1453 50  0000 L CNN
+F 2 "" H -1375 1325 50  0001 C CNN
+F 3 "~" H -1375 1325 50  0001 C CNN
+	1    -1375 1325
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0103
+U 1 1 5F5B8734
+P -1375 1500
+F 0 "#FLG0103" H -1375 1575 50  0001 C CNN
+F 1 "PWR_FLAG" V -1375 1628 50  0000 L CNN
+F 2 "" H -1375 1500 50  0001 C CNN
+F 3 "~" H -1375 1500 50  0001 C CNN
+	1    -1375 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0104
+U 1 1 5F5B88F2
+P -1375 1675
+F 0 "#FLG0104" H -1375 1750 50  0001 C CNN
+F 1 "PWR_FLAG" V -1375 1803 50  0000 L CNN
+F 2 "" H -1375 1675 50  0001 C CNN
+F 3 "~" H -1375 1675 50  0001 C CNN
+	1    -1375 1675
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5F5B8BFC
+P -1425 1875
+F 0 "#PWR?" H -1425 1625 50  0001 C CNN
+F 1 "GND" H -1420 1702 50  0000 C CNN
+F 2 "" H -1425 1875 50  0001 C CNN
+F 3 "" H -1425 1875 50  0001 C CNN
+	1    -1425 1875
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 5F5B94D5
+P -1425 1875
+F 0 "#FLG?" H -1425 1950 50  0001 C CNN
+F 1 "PWR_FLAG" V -1425 2003 50  0000 L CNN
+F 2 "" H -1425 1875 50  0001 C CNN
+F 3 "~" H -1425 1875 50  0001 C CNN
+	1    -1425 1875
+	0    1    1    0   
 $EndComp
 $EndSCHEMATC

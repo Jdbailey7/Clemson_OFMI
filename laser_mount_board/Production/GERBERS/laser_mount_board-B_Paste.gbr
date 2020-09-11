@@ -1,12 +1,12 @@
-G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.2)-1*
-G04 #@! TF.CreationDate,2019-11-05T15:03:04-06:00*
-G04 #@! TF.ProjectId,laser_mount_board,6c617365-725f-46d6-9f75-6e745f626f61,rev?*
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.1.5)-3*
+G04 #@! TF.CreationDate,2020-09-11T07:45:12-05:00*
+G04 #@! TF.ProjectId,laser_mount_board,6c617365-725f-46d6-9f75-6e745f626f61,4.1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Paste,Bot*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.2)-1) date 2019-11-05 15:03:04*
+G04 Created by KiCad (PCBNEW (5.1.5)-3) date 2020-09-11 07:45:12*
 %MOMM*%
 %LPD*%
 G04 APERTURE LIST*
