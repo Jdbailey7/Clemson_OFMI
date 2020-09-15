@@ -12,7 +12,7 @@
   (page A4)
   (title_block
     (title "OFMI Power Supply Board")
-    (date 2020-09-09)
+    (date 2020-09-11)
     (rev 4.1)
     (company "Leeman Geophysical LLC")
     (comment 1 "(479) 373-3736")
@@ -31,7 +31,7 @@
     (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user hide)
+    (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)

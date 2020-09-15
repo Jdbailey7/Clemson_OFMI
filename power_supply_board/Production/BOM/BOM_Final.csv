@@ -1,5 +1,4 @@
 Reference,Value,Footprint,Internal Part Number,Populated,Distributor,Distributor PN
-J2,Power Input,lib_fp:76825-0002,1-0000437,1,Digikey,WM11969-ND
+J2,Power Input,lib_fp:16AWG,1-0000437,1,Digikey,WM11969-ND
 J1,To Digitiziers,Pin_Headers:Pin_Header_Angled_2x11_Pitch2.54mm,1-0000427,1,Digikey,SSW-111-02-T-D-RA-ND
 U1,TDN 5-2411WI,lib_fp:TDN5WI,1-0000438,1,Digikey,1951-1377-ND
-U2,TDN 5-2422WI,lib_fp:TDN5WI,1-0000439,1,Digikey,1951-2910-ND

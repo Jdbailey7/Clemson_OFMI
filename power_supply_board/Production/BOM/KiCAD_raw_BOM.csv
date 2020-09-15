@@ -1,8 +1,7 @@
 Reference, Value, Footprint, Datasheet, Internal Part Number, Populated
-"J2","Power Input","lib_fp:76825-0002","~","1-0000437","1"
+"J2","Power Input","lib_fp:16AWG","~","1-0000437","1"
 "J1","To Digitiziers","Pin_Headers:Pin_Header_Angled_2x11_Pitch2.54mm","~","1-0000427","1"
 "U1","TDN 5-2411WI","lib_fp:TDN5WI","","1-0000438","1"
-"U2","TDN 5-2422WI","lib_fp:TDN5WI","","1-0000439","1"
 "H1","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
 "H2","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"
 "H3","MountingHole","Mounting_Holes:MountingHole_3.2mm_M3_DIN965","~","0-0000000","0"

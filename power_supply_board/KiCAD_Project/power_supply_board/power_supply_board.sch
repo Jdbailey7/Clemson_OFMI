@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Power Supply Board"
-Date "2020-09-08"
+Date "2020-09-11"
 Rev "4.1"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 373-3736"
