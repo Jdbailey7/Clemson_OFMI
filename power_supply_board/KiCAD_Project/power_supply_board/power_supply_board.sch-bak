@@ -2227,23 +2227,23 @@ Text Notes 1175 2775 0    50   ~ 0
 $Comp
 L power:+BATT #PWR0102
 U 1 1 5F581582
-P -775 2050
-F 0 "#PWR0102" H -775 1900 50  0001 C CNN
-F 1 "+BATT" H -760 2223 50  0000 C CNN
-F 2 "" H -775 2050 50  0001 C CNN
-F 3 "" H -775 2050 50  0001 C CNN
-	1    -775 2050
+P -375 2150
+F 0 "#PWR0102" H -375 2000 50  0001 C CNN
+F 1 "+BATT" H -360 2323 50  0000 C CNN
+F 2 "" H -375 2150 50  0001 C CNN
+F 3 "" H -375 2150 50  0001 C CNN
+	1    -375 2150
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:PWR_FLAG #FLG0101
 U 1 1 5F5819A3
-P -775 2050
-F 0 "#FLG0101" H -775 2125 50  0001 C CNN
-F 1 "PWR_FLAG" H -775 2223 50  0000 C CNN
-F 2 "" H -775 2050 50  0001 C CNN
-F 3 "~" H -775 2050 50  0001 C CNN
-	1    -775 2050
+P -375 2150
+F 0 "#FLG0101" H -375 2225 50  0001 C CNN
+F 1 "PWR_FLAG" H -375 2323 50  0000 C CNN
+F 2 "" H -375 2150 50  0001 C CNN
+F 3 "~" H -375 2150 50  0001 C CNN
+	1    -375 2150
 	-1   0    0    1   
 $EndComp
 Text Label 1825 975  2    50   ~ 0
@@ -2302,4 +2302,64 @@ Wire Wire Line
 	1825 1075 1500 1075
 Wire Wire Line
 	1500 975  1825 975 
+Text Label -200 750  2    50   ~ 0
+MISO1
+Text Label -200 850  2    50   ~ 0
+MISO2
+Text Label -200 950  2    50   ~ 0
+MISO3
+Text Label -200 1050 2    50   ~ 0
+MISO4
+Text Label -200 1150 2    50   ~ 0
+MISO5
+Text Label -200 1250 2    50   ~ 0
+MISO6
+Text Label -200 1350 2    50   ~ 0
+MISO7
+Text Label -200 1450 2    50   ~ 0
+MISO8
+Text Label -200 1550 2    50   ~ 0
+MISO9
+Wire Wire Line
+	-525 1550 -200 1550
+Wire Wire Line
+	-200 1450 -525 1450
+Wire Wire Line
+	-525 1350 -200 1350
+Wire Wire Line
+	-200 1250 -525 1250
+Wire Wire Line
+	-525 1150 -200 1150
+Wire Wire Line
+	-200 1050 -525 1050
+Wire Wire Line
+	-525 950  -200 950 
+Wire Wire Line
+	-200 850  -525 850 
+Wire Wire Line
+	-525 750  -200 750 
+Text Label -200 1850 2    50   ~ 0
+SCLK
+Text Label -200 1750 2    50   ~ 0
+MOSI
+Text Label -200 1650 2    50   ~ 0
+CS
+Wire Wire Line
+	-200 1650 -525 1650
+Wire Wire Line
+	-525 1750 -200 1750
+Wire Wire Line
+	-200 1850 -525 1850
+NoConn ~ -525 750 
+NoConn ~ -525 850 
+NoConn ~ -525 950 
+NoConn ~ -525 1050
+NoConn ~ -525 1150
+NoConn ~ -525 1250
+NoConn ~ -525 1350
+NoConn ~ -525 1450
+NoConn ~ -525 1550
+NoConn ~ -525 1650
+NoConn ~ -525 1750
+NoConn ~ -525 1850
 $EndSCHEMATC
