@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Laser Driver Board"
-Date "2020-09-09"
+Date "2020-09-11"
 Rev "4.1"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 373-3736"
@@ -2164,6 +2164,8 @@ F 0 "U1" H 5525 4250 50  0000 C CNN
 F 1 "MLD203CLNE" H 6300 3250 50  0000 C CNN
 F 2 "lib_fp:MLD203CLN" H 6275 3850 50  0001 C CNN
 F 3 "" H 6275 3850 50  0001 C CNN
+F 4 "1-0000712" H 5925 3750 50  0001 C CNN "Internal Part Number"
+F 5 "1" H 5925 3750 50  0001 C CNN "Populated"
 	1    5925 3750
 	1    0    0    -1  
 $EndComp
@@ -2246,9 +2248,11 @@ L Device:R_POT RV1
 U 1 1 5F59898E
 P 7175 3900
 F 0 "RV1" H 7106 3854 50  0000 R CNN
-F 1 "R_POT" H 7106 3945 50  0000 R CNN
+F 1 "100k" H 7106 3945 50  0000 R CNN
 F 2 "lib_fp:3266W" H 7175 3900 50  0001 C CNN
 F 3 "~" H 7175 3900 50  0001 C CNN
+F 4 "1-0000430" H 7175 3900 50  0001 C CNN "Internal Part Number"
+F 5 "1" H 7175 3900 50  0001 C CNN "Populated"
 	1    7175 3900
 	1    0    0    1   
 $EndComp
@@ -2291,6 +2295,8 @@ F 0 "TP1" V 5875 5250 50  0000 C CNN
 F 1 "TestPoint" V 5979 5047 50  0001 C CNN
 F 2 "lib_fp:5006_TestPoint" H 6075 4975 50  0001 C CNN
 F 3 "~" H 6075 4975 50  0001 C CNN
+F 4 "0-0000000" H 5875 4975 50  0001 C CNN "Internal Part Number"
+F 5 "0" H 5875 4975 50  0001 C CNN "Populated"
 	1    5875 4975
 	0    -1   -1   0   
 $EndComp
@@ -2302,6 +2308,8 @@ F 0 "TP2" V 5875 5425 50  0000 C CNN
 F 1 "TestPoint" V 5979 5222 50  0001 C CNN
 F 2 "lib_fp:5006_TestPoint" H 6075 5150 50  0001 C CNN
 F 3 "~" H 6075 5150 50  0001 C CNN
+F 4 "0-0000000" H 5875 5150 50  0001 C CNN "Internal Part Number"
+F 5 "0" H 5875 5150 50  0001 C CNN "Populated"
 	1    5875 5150
 	0    -1   -1   0   
 $EndComp
