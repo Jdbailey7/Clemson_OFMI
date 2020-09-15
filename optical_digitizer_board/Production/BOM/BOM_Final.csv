@@ -1,10 +1,7 @@
 Reference,Value,Footprint,Internal Part Number,Populated,Distributor,Distributor PN
-J1,Female Input Connector,Pin_Headers:Pin_Header_Angled_2x11_Pitch2.54mm,1-0000427,1,Digikey,SSW-111-02-T-D-RA-ND
-U1,OPA350,Housings_DIP:DIP-8_W7.62mm,1-0000423,1,Digikey,OPA350PA-ND
 RV1,100k,lib_fp:3266W,1-0000430,1,Digikey,3266W-104LF-ND
 D1,PhotoDiode,lib_fp:PhotoDiode,1-0000431,1,oeMarket,PD-A-25-9-1-N
 C5,1pF,Capacitors_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,1-0000424,1,Digikey,490-12835-ND
-U2,OPA350,Housings_DIP:DIP-8_W7.62mm,1-0000423,1,Digikey,OPA350PA-ND
 RV2,100k,lib_fp:3266W,1-0000430,1,Digikey,3266W-104LF-ND
 D2,PhotoDiode,lib_fp:PhotoDiode,1-0000431,1,oeMarket,PD-A-25-9-1-N
 C6,1pF,Capacitors_THT:C_Rect_L4.0mm_W2.5mm_P2.50mm,1-0000424,1,Digikey,490-12835-ND
@@ -19,4 +16,11 @@ TP3,TestPoint,lib_fp:5006_TestPoint,1-0000425,1,Digikey,36-5006-ND
 TP4,TestPoint,lib_fp:5006_TestPoint,1-0000425,1,Digikey,36-5006-ND
 TP1,TestPoint,lib_fp:5006_TestPoint,1-0000425,1,Digikey,36-5006-ND
 TP2,TestPoint,lib_fp:5006_TestPoint,1-0000425,1,Digikey,36-5006-ND
-J2,Male Output Connector,lib_fp:SAMTEC-SSW-111-02-X-D-RA,1-0000428,1,Digikey,SAM1049-11-ND
+U1,LM358AP,Package_DIP:DIP-8_W7.62mm_LongPads,1-0000711,1,Digikey,296-9554-5-ND
+U2,LM358AP,Package_DIP:DIP-8_W7.62mm_LongPads,1-0000711,1,Digikey,296-9554-5-ND
+R3,10k,Resistor_SMD:R_0603_1608Metric,1-0000010,1,Digikey,P10.0KHTR-ND
+R4,10k,Resistor_SMD:R_0603_1608Metric,1-0000010,1,Digikey,P10.0KHTR-ND
+R1,10k,Resistor_SMD:R_0603_1608Metric,1-0000010,1,Digikey,P10.0KHTR-ND
+R2,10k,Resistor_SMD:R_0603_1608Metric,1-0000010,1,Digikey,P10.0KHTR-ND
+J1,Female Input Connector,lib_fp:SAMTEC-SSW-111-02-X-D-RA,1-0000428,1,Digikey,SAM1049-11-ND
+J2,Male Output Connector,Pin_Headers:Pin_Header_Angled_2x11_Pitch2.54mm,1-0000427,1,Digikey,SSW-111-02-T-D-RA-ND
