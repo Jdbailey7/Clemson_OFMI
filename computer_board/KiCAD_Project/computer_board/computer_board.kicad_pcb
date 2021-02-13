@@ -46,7 +46,7 @@
   )
 
   (setup
-    (last_trace_width 0.3048)
+    (last_trace_width 0.1524)
     (user_trace_width 0.1524)
     (user_trace_width 0.3048)
     (user_trace_width 0.508)
@@ -79,7 +79,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.0508)
-    (aux_axis_origin 0 0)
+    (aux_axis_origin 91.44 88.9254)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
@@ -107,7 +107,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../Production/GERBERS/"))
+      (outputdirectory "../../Production/PNP/"))
   )
 
   (net 0 "")

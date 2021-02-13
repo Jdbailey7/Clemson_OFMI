@@ -1,0 +1,47 @@
+### Module positions - created on 10/9/2020 2:13:48 PM ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        0.1u      C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -38.6080     3.9624   90.0000  bottom
+FID1      Fiducial  Fiducial_1mm_Mask3mm                           -9.5250    10.1854    0.0000  bottom
+FID2      Fiducial  Fiducial_1mm_Mask3mm                          -82.5500    24.1554    0.0000  bottom
+Q1        BSS138    SOT-23                                        -52.0700    13.3604  270.0000  bottom
+Q2        BSS138    SOT-23                                        -57.2770    13.3604  270.0000  bottom
+Q3        BSS138    SOT-23                                        -62.4840    13.3604  270.0000  bottom
+Q4        BSS138    SOT-23                                        -67.6910    13.3604  270.0000  bottom
+Q5        BSS138    SOT-23                                        -72.8980    21.6154  270.0000  bottom
+Q6        BSS138    SOT-23                                        -67.6910    21.6154  270.0000  bottom
+Q7        BSS138    SOT-23                                        -62.4840    21.6154  270.0000  bottom
+Q8        BSS138    SOT-23                                        -41.6560    21.6154  270.0000  bottom
+Q9        BSS138    SOT-23                                        -36.4490    21.6154  270.0000  bottom
+Q10       BSS138    SOT-23                                        -46.8630    21.6154  270.0000  bottom
+Q11       BSS138    SOT-23                                        -57.2770    21.6154  270.0000  bottom
+Q12       BSS138    SOT-23                                        -52.0700    21.6154  270.0000  bottom
+R1        1k        R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -22.0980    23.9014    0.0000  bottom
+R2        1k        R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -22.0980    21.9964    0.0000  bottom
+R3        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -52.0700    16.1544    0.0000  bottom
+R4        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -57.2770    16.1544    0.0000  bottom
+R5        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -62.4840    16.1544    0.0000  bottom
+R6        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -67.6910    16.1544    0.0000  bottom
+R7        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -52.0700    10.5664  180.0000  bottom
+R8        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -57.2770    10.5664  180.0000  bottom
+R9        10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -62.4840    10.5664  180.0000  bottom
+R10       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -67.6910    10.5664  180.0000  bottom
+R11       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -72.8980    24.4094    0.0000  bottom
+R12       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -67.6910    24.4094    0.0000  bottom
+R13       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -62.4840    24.4094    0.0000  bottom
+R14       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -41.6560    24.4094    0.0000  bottom
+R15       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -72.8980    18.8214  180.0000  bottom
+R16       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -67.6910    18.8214  180.0000  bottom
+R17       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -62.4840    18.8214  180.0000  bottom
+R18       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -41.6560    18.8214  180.0000  bottom
+R19       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -36.4490    24.4094    0.0000  bottom
+R20       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -46.8630    24.4094    0.0000  bottom
+R21       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -57.2770    24.4094    0.0000  bottom
+R22       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -52.0700    24.4094    0.0000  bottom
+R23       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -36.4490    18.8214  180.0000  bottom
+R24       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -46.8630    18.8214  180.0000  bottom
+R25       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -57.2770    18.8214  180.0000  bottom
+R26       10k       R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -52.0700    18.8214  180.0000  bottom
+## End
