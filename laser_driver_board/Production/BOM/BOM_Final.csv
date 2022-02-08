@@ -1,5 +1,0 @@
-Reference,Value,Footprint,Internal Part Number,Populated,Distributor,Distributor PN
-J1,Input,lib_fp:SAMTEC-TSW-111-08-X-S-RA,1-0000422,1,Digikey,SAM1051-11-ND
-J2,Output,lib_fp:SAMTEC-TSW-111-08-X-S-RA,1-0000422,1,Digikey,SAM1051-11-ND
-U1,MLD203CLNE,lib_fp:MLD203CLN,1-0000712,1,THORLABS,MLD203CLNE
-RV1,100k,lib_fp:3266W,1-0000430,1,Digikey,3266W-104LF-ND
