@@ -1,5 +1,6 @@
-Reference, Value, Footprint, Datasheet, Internal Part Number, Populated
-"J1","Board to Board","Pin_Headers:Pin_Header_Angled_1x11_Pitch2.54mm","~","1-0000422","1"
-"U1","LaserDiode","lib_fp:LaserDiode",""
-"H1","M3","Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad","~","0-0000000","0"
-"H2","M3","Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad","~","0-0000000","0"
+Reference, Value, Footprint, Datasheet, Internal Part Number, Populated, PValue
+"J1","Board to Board","Pin_Headers:Pin_Header_Angled_1x11_Pitch2.54mm","~","1-0000422","1",""
+"U1","LaserDiode","lib_fp:LaserDiode","","0-0000000","0",""
+"H1","M3","Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad","~","0-0000000","0",""
+"H2","M3","Mounting_Holes:MountingHole_3.2mm_M3_DIN965_Pad","~","0-0000000","0",""
+"PCB1","barepcb","misc:barepcb","","3-0000122","1","Bare PCB"

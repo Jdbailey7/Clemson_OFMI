@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Laser Driver Board"
-Date "2020-09-11"
-Rev "4.1"
+Date "2022-02-08"
+Rev "4.2"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 373-3736"
 Comment2 "Siloam Springs, AR 72761"
@@ -2364,5 +2364,19 @@ F 2 "" H -550 3125 50  0001 C CNN
 F 3 "~" H -550 3125 50  0001 C CNN
 	1    -550 3125
 	0    1    1    0   
+$EndComp
+$Comp
+L misc:barepcb PCB1
+U 1 1 6202AE13
+P 6125 7650
+F 0 "PCB1" H 6025 7800 50  0000 L CNN
+F 1 "barepcb" H 5975 7650 50  0000 L CNN
+F 2 "misc:barepcb" H 6125 7650 50  0001 C CNN
+F 3 "" H 6125 7650 50  0001 C CNN
+F 4 "3-0000123" H 6125 7650 50  0001 C CNN "Internal Part Number"
+F 5 "1" H 6125 7650 50  0001 C CNN "Populated"
+F 6 "Bare PCB" H 6125 7650 50  0001 C CNN "PValue"
+	1    6125 7650
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

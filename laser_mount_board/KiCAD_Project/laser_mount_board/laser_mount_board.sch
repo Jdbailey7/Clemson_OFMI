@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "OFMI Laser Mount Board"
-Date "2020-09-11"
-Rev "4.1"
+Date "2022-02-08"
+Rev "4.2"
 Comp "Leeman Geophysical LLC"
 Comment1 "(479) 427-0299"
 Comment2 "Siloam Springs, AR 72761"
@@ -2112,6 +2112,8 @@ F 0 "U1" H 6975 3950 50  0000 C CNN
 F 1 "LaserDiode" H 6975 3859 50  0000 C CNN
 F 2 "lib_fp:LaserDiode" H 6925 3675 50  0001 C CNN
 F 3 "" H 6925 3675 50  0001 C CNN
+F 4 "0-0000000" H 6975 3375 50  0001 C CNN "Internal Part Number"
+F 5 "0" H 6975 3375 50  0001 C CNN "Populated"
 	1    6975 3375
 	1    0    0    -1  
 $EndComp
@@ -2189,7 +2191,7 @@ F 5 "0" H 6425 7100 50  0001 C CNN "Populated"
 	1    0    0    -1  
 $EndComp
 Text Notes 6975 6500 0    50   ~ 0
-Rev 4.0 and 4.1 are identical - just a silk screen bump
+Rev 4.0, 4.1, and 4.2 are identical - just a silk screen update
 Text GLabel -1375 1150 0    50   UnSpc ~ 0
 LDA
 Text GLabel -1375 1325 0    50   UnSpc ~ 0
@@ -2263,5 +2265,19 @@ F 2 "" H -1425 1875 50  0001 C CNN
 F 3 "~" H -1425 1875 50  0001 C CNN
 	1    -1425 1875
 	0    1    1    0   
+$EndComp
+$Comp
+L misc:barepcb PCB1
+U 1 1 62029FCF
+P 6425 7575
+F 0 "PCB1" H 6325 7725 50  0000 L CNN
+F 1 "barepcb" H 6275 7575 50  0000 L CNN
+F 2 "misc:barepcb" H 6425 7575 50  0001 C CNN
+F 3 "" H 6425 7575 50  0001 C CNN
+F 4 "3-0000122" H 6425 7575 50  0001 C CNN "Internal Part Number"
+F 5 "1" H 6425 7575 50  0001 C CNN "Populated"
+F 6 "Bare PCB" H 6425 7575 50  0001 C CNN "PValue"
+	1    6425 7575
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

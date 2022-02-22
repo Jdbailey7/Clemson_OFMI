@@ -2295,6 +2295,8 @@ F 0 "TP1" V 5875 5250 50  0000 C CNN
 F 1 "TestPoint" V 5979 5047 50  0001 C CNN
 F 2 "lib_fp:5006_TestPoint" H 6075 4975 50  0001 C CNN
 F 3 "~" H 6075 4975 50  0001 C CNN
+F 4 "0-0000000" H 5875 4975 50  0001 C CNN "Internal Part Number"
+F 5 "0" H 5875 4975 50  0001 C CNN "Populated"
 	1    5875 4975
 	0    -1   -1   0   
 $EndComp
@@ -2306,6 +2308,8 @@ F 0 "TP2" V 5875 5425 50  0000 C CNN
 F 1 "TestPoint" V 5979 5222 50  0001 C CNN
 F 2 "lib_fp:5006_TestPoint" H 6075 5150 50  0001 C CNN
 F 3 "~" H 6075 5150 50  0001 C CNN
+F 4 "0-0000000" H 5875 5150 50  0001 C CNN "Internal Part Number"
+F 5 "0" H 5875 5150 50  0001 C CNN "Populated"
 	1    5875 5150
 	0    -1   -1   0   
 $EndComp
@@ -2360,5 +2364,19 @@ F 2 "" H -550 3125 50  0001 C CNN
 F 3 "~" H -550 3125 50  0001 C CNN
 	1    -550 3125
 	0    1    1    0   
+$EndComp
+$Comp
+L misc:barepcb PCB?
+U 1 1 6202AE13
+P 6125 7650
+F 0 "PCB?" H 6025 7800 50  0000 L CNN
+F 1 "barepcb" H 5975 7650 50  0000 L CNN
+F 2 "misc:barepcb" H 6125 7650 50  0001 C CNN
+F 3 "" H 6125 7650 50  0001 C CNN
+F 4 "3-0000123" H 6125 7650 50  0001 C CNN "Internal Part Number"
+F 5 "1" H 6125 7650 50  0001 C CNN "Populated"
+F 6 "Bare PCB" H 6125 7650 50  0001 C CNN "PValue"
+	1    6125 7650
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
